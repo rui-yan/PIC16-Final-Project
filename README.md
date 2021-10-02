@@ -1,5 +1,5 @@
 # PIC16 Final Project
-https://www.math.ucla.edu/~hangjie/teaching/Winter2019PIC16/
+https://www.math.ucla.edu/~hangjie/teaching/Fall2018PIC16-Projects/
 
 ### Created by Rui Yan, Fanfei Li, Xue Xia
 ### Our game “Powell Cat” is based on classic snake game, but with many new and creative rules. 
